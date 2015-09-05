@@ -1,4 +1,5 @@
 Group is
       game-of-life.sml
 
+      $/smlnj-lib.cm
       $/basis.cm
